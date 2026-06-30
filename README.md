@@ -69,6 +69,12 @@ This file is ignored by Git and must never be committed.
 dvc pull
 ```
 
+if you encounter error like `"module 'lib' has no attribute 'GEN_EMAIL'"` just run:
+
+```bash
+pip install --upgrade pyOpenSSL
+```
+
 ---
 
 ## Verify dataset status
