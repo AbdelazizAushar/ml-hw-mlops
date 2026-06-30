@@ -22,19 +22,20 @@ This project demonstrates dataset versioning and reproducibility using Git and D
 - Git
 - DVC
 
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Clone the project
 
 ```bash
 git clone https://github.com/AbdelazizAushar/ml-hw-mlops.git
 cd ml-hw-mlops
+```
+
+---
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
 ```
 
 ---
