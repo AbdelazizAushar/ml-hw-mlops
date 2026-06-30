@@ -37,6 +37,11 @@ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
+if you encounter any issues due to versions conflicts, you can simple run only:
+
+```bash
+pip install "dvc[gdrive]"
+```
 
 ---
 
